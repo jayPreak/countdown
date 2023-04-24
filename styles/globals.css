@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-f0b2bc {
+  background-color: #f0b2bc;
+}

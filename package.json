@@ -1,0 +1,22 @@
+{
+  "name": "countdown",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.14",
+    "next": "latest",
+    "postcss": "^8.4.23",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^3.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "typescript": "latest"
+  }
+}

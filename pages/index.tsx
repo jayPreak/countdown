@@ -40,7 +40,7 @@ const CountdownTimer: React.FC<{ targetDate: Date }> = ({ targetDate }) => {
 };
 
 export default function Home() {
-  const targetDate = new Date(2023, 5, 5, 15, 30, 0, 0);
+  const targetDate = new Date(2023, 4, 5, 15, 30, 0, 0);
 
   return (
     <div className="min-h-screen bg-f0b2bc flex items-center justify-center">
